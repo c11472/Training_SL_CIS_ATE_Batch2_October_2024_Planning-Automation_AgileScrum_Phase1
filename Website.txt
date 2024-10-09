@@ -1,0 +1,218 @@
+Testing in 2025 :
+
+Future of testing 
+Future of testers .
+
+AIML :
+Applying across industries..
+More oppertunities
+Activities : AI tool
+Test Design
+Test Automation 
+Production of data
+Launching of data
+
+AI will take away the jobs : --- 
+
+cheap ui automation
+Ant afraid of a lion ..
+
+Art of testing :
+
+There
+Happy path scenarios
+Base use test cases..
+Basic api testing
+DLL API 
+They are automatable
+
+Major chunks of good testing is going to be taken care by non-testers.
+
+
+We do not enjoy the craft of testing .
+Double standard :
+Testing is easy.  
+Testing is difficult because we can only do it.
+
+Based on AI and ML ---- 
+
+Underexplored Automation:
+Translation test translation
+
+
+Automation in Testing
+Test automation 
+Reports of Explaratory Testing
+A test can not be translated
+Partial automation -- not test translation
+
+Agile Testing Piramid ---> why ?
+
+Unit Test Layer 
+Problem of regression testing
+Which test should run first
+_____________
+
+Area of automation :
+
+Under explored automation
+
+Testing AI Based products
+technologies related to the same..
+ChatGPT 
+Prompt Engineering -- tool skills
+
+
+framework designe
+test automation
+
+
+
+prompt engineering --- 10 people ---- p1
+
+designe parttern
+
+
+Going back to basics :
+Go deep to boundary value analysis
+
+Equivalence class
+state transition
+decission table
+
+
+Testing Object Oriented System --- Robert Binder
+
+Foundation 
+
+If I am a tester I have to do more what AI does..
+
+
+Two major statements :
+
+AI is the assistant to human
+Human is the assistant of AI 
+
+
+Developers are not bad testers , their goals are different.
+
+[ Surface level testing ]
+
+Read everyday --
+Take a topic ---- BVA ---- 1 hour , 1 month , 1 year
+
+[Do you have love for testing to get the 5th book]
+
+Luxury of knowledge
+As you learn more and more it is tough.
+
+Try to just absorbe..
+throw away what does not matter
+
+Nobody is an expert.
+
+When somebody asks you a question , ask a question back . It will help everybody.
+
+Rise of Low code or no code platform: what oppertunities you see over there ???
+
+Better modified form of record play back.
+
+Job loss wont happen if the testers does more..
+Learn ablout automation engineering..
+
+Keyword driven test auromation testing framework -----> 
+
+Are we introspecting ---> reflecting ---> how much time I am spending in testing ??
+
+I did a lot of experiment in 15 years.
+Solving the same problem again and again is not the experience.
+
+Arjuna --- Open source framework
+https://arjuna-taf.readthedocs.io/en/latest/
+
+Why someone is a tester ?? 
+If he loves testing then I can cmmunicate further.
+
+
+Anything which you are doing out of testing is diluting .. the skills.
+
+Note :
+Quality is everybodies responsibility.
+Quality is tester's responsibility.
+
+Whether majority of the tasks related to testing ..
+
+Good developer:
+  unit test
+  design
+  collabarate with testerss
+
+functional 
+ui
+performance
+usability
+security
+
+
+Explore test design testing ??
+Go deeper ..
+Test Droiven Development -- Kent Black
+
+
+All testing can be done by testers 
+All testing developers can do and take care.
+Answer is somewhere in between.
+
+data science
+block chain
+MI
+Dev opps
+
+Career :
+Focus only on testing.
+
+Automation Engineersing ------ Code reviewer
+Framework design 
+Consult- Test automation framework reviewer
+
+99% by reading books
+real experience
+
+sensors in car
+door technologies
+
+Brijesh
+Vikash Mithal
+Naveen Automation Lab
+
+
+
+Bpoks recommandation from Rahul :
+Testing Computer Software by Cem Kaner
+Domain Testing Handbook by Cem Kaner
+Lessons Learned in Software Testing
+Testing Object Oriented Systems By Robert Binder
+The Art of Unit Testing with Examples in C# .NET
+Performance Solutions by Connie and Llloyd
+Web Application Hackers Handbook
+Apress - Foundations of Security
+Apress - Foundations of Security
+Threat Modeling - Microsoft publication
+Fuzzing - Brute Force Vulnerability Assessment
+Dont make me think ---- Usability
+Unmesh Gundecha - Selenium
+
+
+choose 3 things , but one thing ata time .
+
+
+
+
+
+
+
+
+
+
+
+

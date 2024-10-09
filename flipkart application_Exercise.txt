@@ -1,0 +1,14 @@
+flipkart application
+
+--> Understand the requirements 
+    Document the requirement
+  
+--> Create  product backlog
+
+--> Plan the sprints
+    Sprint balogs
+
+Create the user stories
+
+
+

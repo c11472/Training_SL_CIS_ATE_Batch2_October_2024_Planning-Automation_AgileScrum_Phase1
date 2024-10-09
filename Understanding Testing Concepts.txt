@@ -1,0 +1,159 @@
+
+
+SDLC :
+
+     1. Requirement analysis
+     2. Plan
+     3. Design
+     4. code
+     5. testing  ----------------> Software Testing Lifecycle : STLC
+     6. Deploy
+
+Requirement Gathering :
+
+    -> Business requirement has to be analysied ---- 
+
+     Business Requirement
+
+     System Requirement ------ 
+
+     Users requirement
+
+_______________________________________________
+
+Team 0f 24 
+
+Client ----> Vendor ------> 
+3      ----> 21 
+
+
+[abcbankofindia.com]
+     Employees
+     Customers
+
+
+Employeequatifyportal :
+
+   login
+   logout
+   apply for leave
+   get the holidays list
+   get the sal info --- salary slips
+
+SRS : 
+
+   Detailed documentation about the product module wise ---- 
+   Admin
+   HR
+
+
+   Employees
+   REQ001: Invoke the application in specific environment
+   REQ002: Login
+   MyAccount->Login
+   
+   Description of the requirement
+   Screen image 
+   REQ003: Logout
+   Description of the requirement
+
+
+______________________________________-
+
+
+Req Analysis  ------ Phase 1
+     ->
+       Plan ----- Pase 2
+         ->
+           Design --- phase 3
+             ->
+               Coding phase-4
+                ->
+                  Testing 
+
+                      -> 
+                        product deploy phase -5
+   
+   Screen image
+   
+
+    
+   Requirement Analysis:
+     Business Requirement
+     System Requirement
+     SRS Template
+   
+     Waterfall model phases
+     Limitation of waterfall model related to time and quality impact on the product delivery.
+
+     SDLC ---- HLD LLD --- 
+
+
+Query :
+from amudunur@cisco.com to Gayatri M (privately):
+during production level team has towork in the client location as per requirement mam?
+
+Difference between Software Tester and the QA
+
+
+Verification & Validation
+
+Verification --- static testing
+                 All the process oriented documents , templates has to be checked
+
+                 review
+              
+                 Requirement Document   ---- SRS , FS
+                 Testcase template --------- Design the testing activity -----
+                      Test scenarios
+                      Test cases
+                       Test data
+                      Expected result ------ Static testing
+
+                 Test Plan 
+
+                Design ----
+
+To check  login in opencart
+
+TC001 : Login_Opencart
+
+1. Open the login page for opencart
+2. Enter username and password
+3. Click on login
+
+
+Launch app
+Login
+Registartion
+Logout
+Add item to cart
+Pay amount
+Download bill
+
+                 
+                      
+                 
+
+
+
+  
+Validation ---- Dynamic testing
+
+   
+
+
+
+
+
+
+
+
+   
+
+
+
+   
+
+
+
